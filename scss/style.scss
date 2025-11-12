@@ -1,0 +1,70 @@
+.page-title {
+  color: #890a17;
+  font-weight: 250;
+  font-size: 5rem;
+  text-align: left;
+  margin-bottom: 0.5rem;
+}
+.received-card {
+  max-width: 980px;
+  margin: 0 auto 1.5rem;
+}
+.received-line {
+  font-size: 1.05rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* submit button (purple) */
+.btn-submit {
+  background: #635bff;
+  border: 0;
+  padding: 0.6rem 1rem;
+  font-weight: 600;
+  border-radius: 0.6rem;
+}
+
+/* cyan full-width bar */
+.cta-view {
+  display: block;
+  width: 100%;
+  text-align: center;
+  background: #00d0ea;
+  color: #fff;
+  padding: 0.9rem 1rem;
+  border-radius: 0.6rem;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+/* split bar */
+.cta-split {
+  margin-top: 0.8rem;
+}
+.cta-key {
+  background: #e0f5cc;
+  color: #2d5a00;
+  text-align: center;
+  padding: 0.9rem 1rem;
+  font-weight: 600;
+  border-top-left-radius: 0.6rem;
+  border-bottom-left-radius: 0.6rem;
+}
+.cta-delete {
+  display: block;
+  width: 100%;
+  text-align: center;
+  background: #dc3545;
+  color: #fff;
+  padding: 0.9rem 1rem;
+  text-decoration: none;
+  font-weight: 600;
+  border-top-right-radius: 0.6rem;
+  border-bottom-right-radius: 0.6rem;
+}
+
+/* center the action area */
+.actions-wrap {
+  max-width: 900px;
+  margin: 1.2rem auto 0;
+}
